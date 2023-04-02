@@ -1,0 +1,7 @@
+AnsokOmPrivatLan.FragorOmLanetStepOne_HarMedsokande
+Program.IcaSlider("20000","8")
+Program.IcaSlider("50000","15")
+Program.IcaSliderMinMaxLoan("1","20000")
+Program.IcaSliderMinMaxLoan("99999999","500000")
+Program.StubTest
+Program.WaitTestOnIca

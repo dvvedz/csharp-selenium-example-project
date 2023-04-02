@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1EA8101A-6685-424C-8AD4-CC1EC3D1D183}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.seleniumfirst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnsokOmPrivatLanPage.cs">
+    <Files>
+      <File FileName="AnsokOmPrivatLanPage.cs" Line="39" Column="5" IsPinned="True" />
+      <File FileName="DriverExtensions.cs" Line="25" Column="6" />
+      <File FileName="SetupTest.cs" />
+      <File FileName="DriverExtensionsWaits.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="seleniumfirst" expanded="True">
+            <Node name="seleniumfirst" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="seleniumfirst" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
